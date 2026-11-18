@@ -4,7 +4,7 @@
   <ToyDLC size="736294" checksum="0x096A1EDF" tags="dlc32 TooHotChilliLCD">TR020730.DLC</ToyDLC>
   <ToyDLC size="678652" checksum="0xE17090B8" tags="dlc33 TooHotChilliLCD">TU020730.DLC</ToyDLC>
   <ToyDLC size="693026" checksum="0x39653BC0" tags="dlc33 TooHotChilliLCD">TR020740.DLC</ToyDLC>
-  <WeeklyBundle dlctag="dlc32" timestamp="1524182400">
+  <WeeklyBundle dlctag="dlc32" timestamp="1794268800">
     <VideoBundle name="nodlc32.xml" group="9" />
     <VideoBundle name="cakebytheoceandlc32.xml" group="1" new="true" />
     <VideoBundle name="breakdancecorgidlc32.xml" group="7" />
@@ -49,7 +49,7 @@
     </FurbyAlerts>
     <WeeklyObsession group="13" />
   </WeeklyBundle>
-  <WeeklyBundle dlctag="dlc33" timestamp="1525996800">
+  <WeeklyBundle dlctag="dlc33" timestamp="2525996800">
     <VideoBundle name="ucanttouchthisdlc33.xml" group="9" />
     <VideoBundle name="partyrockdlc33.xml" group="1" new="true" />
     <VideoBundle name="fishingdlc33.xml" group="7" />
