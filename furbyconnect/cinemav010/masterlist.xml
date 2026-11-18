@@ -19,7 +19,7 @@
     </FurbyAlerts>
     <WeeklyObsession group="11" />
   </WeeklyBundle>
-  <WeeklyBundle dlctag="dlc32" timestamp="1524787200">
+  <WeeklyBundle dlctag="dlc32" timestamp="1794873600">
     <VideoBundle name="cakebytheoceandlc32.xml" group="1" />
     <VideoBundle name="fishingdlc32.xml" group="3" new="true" />
     <VideoBundle name="nodlc32.xml" group="9" />
@@ -34,7 +34,7 @@
     </FurbyAlerts>
     <WeeklyObsession group="12" />
   </WeeklyBundle>
-  <WeeklyBundle dlctag="dlc32" timestamp="1525392000">
+  <WeeklyBundle dlctag="dlc32" timestamp="2525392000">
     <VideoBundle name="fishingdlc32.xml" group="3" />
     <VideoBundle name="ucanttouchthisdlc32.xml" group="5" new="true" />
     <VideoBundle name="cakebytheoceandlc32.xml" group="1" />
