@@ -2,8 +2,8 @@
 <Bundle>
   <ID>cakebytheocean</ID>
   <Set name="ucanttouchthisSET">
-    <PreviewImage size="112382">cakebytheocean.png</PreviewImage>
-    <VideoFile size="10577272">cakebytheocean.mp4</VideoFile>
+    <PreviewImage size="112382">ucanttouchthis.png</PreviewImage>
+    <VideoFile size="10577272">ucanttouchthis.mp4</VideoFile>
     <FileBundle size="0" />
     <AppDLC size="0" checksum="0" />
     <Lang lang="U">
