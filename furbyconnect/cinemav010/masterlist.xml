@@ -64,7 +64,7 @@
     </FurbyAlerts>
     <WeeklyObsession group="11" />
   </WeeklyBundle>
-  <WeeklyBundle dlctag="dlc33" timestamp="1526601600">
+  <WeeklyBundle dlctag="dlc33" timestamp="2526601600">
     <VideoBundle name="partyrockdlc33.xml" group="1" />
     <VideoBundle name="merfurbdlc33.xml" group="3" new="true" />
     <VideoBundle name="ucanttouchthisdlc33.xml" group="9" />
@@ -79,7 +79,7 @@
     </FurbyAlerts>
     <WeeklyObsession group="12" />
   </WeeklyBundle>
-  <WeeklyBundle dlctag="dlc33" timestamp="1527206400">
+  <WeeklyBundle dlctag="dlc33" timestamp="2527206400">
     <VideoBundle name="merfurbdlc33.xml" group="3" />
     <VideoBundle name="downdlc33.xml" group="5" new="true" />
     <VideoBundle name="partyrockdlc33.xml" group="1" />
@@ -94,5 +94,5 @@
     </FurbyAlerts>
     <WeeklyObsession group="13" />
   </WeeklyBundle>
-  <FutureBundle dlctag="dlc33" timestamp="1527811200" duration="604800" group="14" />
+  <FutureBundle dlctag="dlc33" timestamp="2527811200" duration="604800" group="14" />
 </BundleList>
