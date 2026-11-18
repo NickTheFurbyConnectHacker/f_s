@@ -4,7 +4,7 @@
   <ToyDLC size="736294" checksum="0x096A1EDF" tags="dlc32 TooHotChilliLCD">TR020730.DLC</ToyDLC>
   <ToyDLC size="678652" checksum="0xE17090B8" tags="dlc33 TooHotChilliLCD">TU020730.DLC</ToyDLC>
   <ToyDLC size="693026" checksum="0x39653BC0" tags="dlc33 TooHotChilliLCD">TR020740.DLC</ToyDLC>
-  <WeeklyBundle dlctag="dlc32" timestamp="1794268800">
+  <WeeklyBundle dlctag="dlc32" timestamp="1524182400">
     <VideoBundle name="nodlc32.xml" group="9" />
     <VideoBundle name="cakebytheoceandlc32.xml" group="1" new="true" />
     <VideoBundle name="breakdancecorgidlc32.xml" group="7" />
@@ -19,7 +19,7 @@
     </FurbyAlerts>
     <WeeklyObsession group="11" />
   </WeeklyBundle>
-  <WeeklyBundle dlctag="dlc32" timestamp="1794873600">
+  <WeeklyBundle dlctag="dlc32" timestamp="1524787200">
     <VideoBundle name="cakebytheoceandlc32.xml" group="1" />
     <VideoBundle name="fishingdlc32.xml" group="3" new="true" />
     <VideoBundle name="nodlc32.xml" group="9" />
@@ -34,7 +34,7 @@
     </FurbyAlerts>
     <WeeklyObsession group="12" />
   </WeeklyBundle>
-  <WeeklyBundle dlctag="dlc32" timestamp="2525392000">
+  <WeeklyBundle dlctag="dlc32" timestamp="1525392000">
     <VideoBundle name="fishingdlc32.xml" group="3" />
     <VideoBundle name="ucanttouchthisdlc32.xml" group="5" new="true" />
     <VideoBundle name="cakebytheoceandlc32.xml" group="1" />
@@ -49,7 +49,7 @@
     </FurbyAlerts>
     <WeeklyObsession group="13" />
   </WeeklyBundle>
-  <WeeklyBundle dlctag="dlc33" timestamp="2525996800">
+  <WeeklyBundle dlctag="dlc33" timestamp="1525996800">
     <VideoBundle name="ucanttouchthisdlc33.xml" group="9" />
     <VideoBundle name="partyrockdlc33.xml" group="1" new="true" />
     <VideoBundle name="fishingdlc33.xml" group="7" />
@@ -64,7 +64,7 @@
     </FurbyAlerts>
     <WeeklyObsession group="11" />
   </WeeklyBundle>
-  <WeeklyBundle dlctag="dlc33" timestamp="2526601600">
+  <WeeklyBundle dlctag="dlc33" timestamp="1526601600">
     <VideoBundle name="partyrockdlc33.xml" group="1" />
     <VideoBundle name="merfurbdlc33.xml" group="3" new="true" />
     <VideoBundle name="ucanttouchthisdlc33.xml" group="9" />
@@ -79,7 +79,7 @@
     </FurbyAlerts>
     <WeeklyObsession group="12" />
   </WeeklyBundle>
-  <WeeklyBundle dlctag="dlc33" timestamp="2527206400">
+  <WeeklyBundle dlctag="dlc33" timestamp="1527206400">
     <VideoBundle name="merfurbdlc33.xml" group="3" />
     <VideoBundle name="downdlc33.xml" group="5" new="true" />
     <VideoBundle name="partyrockdlc33.xml" group="1" />
@@ -94,5 +94,5 @@
     </FurbyAlerts>
     <WeeklyObsession group="13" />
   </WeeklyBundle>
-  <FutureBundle dlctag="dlc33" timestamp="2527811200" duration="604800" group="14" />
+  <FutureBundle dlctag="dlc33" timestamp="1527811200" duration="604800" group="14" />
 </BundleList>
